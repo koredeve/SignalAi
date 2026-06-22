@@ -169,7 +169,7 @@ function drawSub(cvs,data,lo,hi,type){
 }
 
 // - Main App -
-export default function TradePro(){
+export default function SignalAI(){
   const [activePair,  setActivePair]   = useState('BTC/USDT');
   const [activeTF,    setActiveTF]     = useState('4H');
   const [chartType,   setChartType]    = useState('candle');
