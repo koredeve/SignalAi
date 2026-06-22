@@ -1,0 +1,9 @@
+{
+  "buildCommand": "npm run build",
+  "outputDirectory": ".next",
+  "framework": "nextjs",
+  "functions": {
+    "pages/api/analysis.js": { "maxDuration": 60 },
+    "pages/api/resolve.js":  { "maxDuration": 30 }
+  }
+}
