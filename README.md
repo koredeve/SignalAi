@@ -2,7 +2,7 @@
 
 Multi-model AI trading analysis tool. Routes multiple LLMs (Claude, GPT-4o, DeepSeek) to analyse charts with user-defined entry points and stop loss levels — comparing model outputs side by side to inform trade decisions.
 
-Live demo: [tradedotpro.vercel.app](https://tradedotpro.vercel.app)
+Live demo: [signalai-kappa.vercel.app](https://signalai-kappa.vercel.app/)
 
 ---
 
